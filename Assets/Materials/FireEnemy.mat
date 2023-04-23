@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: FireEnemy
+  m_Shader: {fileID: -6465566751694194690, guid: 5ced46ba25140e3419db35f07907b30a, type: 3}
+  m_ShaderKeywords: ETC1_EXTERNAL_ALPHA
+  m_LightmapFlags: 2
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_F72C8E87:
+        m_Texture: {fileID: 2800000, guid: 7e2d011c5fe59f94da7ae3862a6d0191, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_8996FF17_Texture_1:
+        m_Texture: {fileID: 2800000, guid: f356a05d0f8f7f24f8fca9e922ae0bc9, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_40505A8B: 1
+    - Vector1_51E98864: 2
+    - Vector1_5699E266: 0.9
+    - Vector1_B44947C5: 1000
+    - Vector1_C23F3508: 5
+    - Vector1_D6234A4B: 0
+    - Vector1_E950D50A: 0.15
+    - _TimeOffset: 0
+    m_Colors:
+    - Color_45DE48E6: {r: 1.3333912, g: 5.117339, b: 6.8831816, a: 1}
+    - Vector2_41F827B9: {r: 0, g: -0.3, b: 0, a: 0}
+    - Vector2_DA2B622A: {r: 0, g: -0.8, b: 0, a: 0}
+    - _TintColor: {r: 0.7529412, g: 2.886275, b: 3.890196, a: 1}
+  m_BuildTextureStacks: []

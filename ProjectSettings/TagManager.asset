@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Enemies
+  - Anchor
+  - Collectable
+  - Checkpoint
+  - Moon
+  - End
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 2706788561
+    locked: 0
+  - name: BackTerrain
+    uniqueID: 3363983325
+    locked: 0
+  - name: Terrain
+    uniqueID: 3400316549
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Enemies
+    uniqueID: 1500554621
+    locked: 0
+  - name: Player
+    uniqueID: 3809987749
+    locked: 0
+  - name: FrontTerrain
+    uniqueID: 1470058805
+    locked: 0
